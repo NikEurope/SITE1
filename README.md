@@ -28,10 +28,3 @@ style.css BASE + CSS  ABSOLUT
 <!-- FOOTER ------------------->
 
 @media screen and 
-
-
-
-https://htmlpreview.github.io/?https://github.com/NikEurope/SITE1/blob/master/index.html
-
-
-
